@@ -1,0 +1,57 @@
+question 1 : how does the web works? 
+
+- the web is a system for publishing pages of information on the internet, and for linking pages together using links.
+-  Web servers and web browsers communicate via HTTP
+
+-  HTTP ensures that all parts of the web page are delivered
+
+-  Web browser decides how these items are displayed
+
+example :
+-  the moment we enter an adress of a website in a browser and hit enter:
+-  the url gets resolved 
+-  a request is sent to the server of the website
+-  the response of the server is parsed 
+-  the page is rendered and displayed.
+
+
+question 2 : what do you need to be a web developer ?
+
+- Although there are no formal educational requirements to become a Web Developer, experience in the field will be expected. 
+Knowledge in the following is a requirement:
+     -HTML/XHTML, CSS, JavaScript,
+     -Server architecture,
+     -Frontend web programing languages and skills such as JavaScript, Ajax and web animation techniques,
+     -Backend web programing languages such as C# or Java, PHP and Ruby,
+     -Experience with database systems,
+
+Aside from these skills, there are a number of qualities to be highlighted in a Web Developer:
+     - Computer literacy,
+     - Strong numeracy skills,
+     - Strong creative ability,
+     - Attention to detail,
+     - Strong communication skills,
+     - Excellent problem-solving skills,
+     - A logical approach to work,
+     - The ability to explain technical matters clearly,
+     - A keen interest in technology,
+     - Management experience or examples that show ability to manage a team, should this role involve team management,
+     - Ability to multitask with strict time constraints, budgets and business goals.
+
+question 3 : what's the role of a web developer ?
+
+- A Web Developer is responsible for the coding, design and layout of a website according to a company’s specifications.
+
+- A Web Developer must have experience in the planning and the delivery of web applications across multiple platforms.
+- A typical Web Developer job description should cover:
+
+   - Writing efficient code,
+   - Creating websites/a website using standard HTML/CSS practices,
+   - Working closely with web designers and programmers to produce the website,
+   - Constant communication with other colleagues in the business to develop and deploy their content – and ensuring there is a clear establishment of what can be created within what timeframe
+   - Researching different software programs, maintaining software documentation,
+   - Implementing contingency plans in case the website goes down,
+   - Maintaining and expanding/enhancing the website once built,
+   - Managing a team might also be part of the job role.
+
+
